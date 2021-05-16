@@ -21,7 +21,7 @@ Please see the links to my GitHub repository for the code:
 https://github.com/stevedev75/note_taker
 
 Please see the URL to the deployed web application below:
-HEROKU LINK HERE
+https://note-taker-sd.herokuapp.com/
 
 Contact me: stephendever.cr@gmail.com
 
